@@ -1,0 +1,49 @@
+
+/* One Dimension */
+
+1)Declare An Array  int, double, float
+2)Initialization of Array static , dynamic, memory allocation to array elements(initialisation)
+3)Take input from user for an array
+4)Searching an element in array
+5)Reversing a array and print it
+6)Sum of elements in an array and its average
+7)Ascending and Descending order of an array
+8)Accept 2 array from user and display its sum in third array
+9)Accept 2 array from user and display its product in third array
+10)Find smallest and greatest number in array
+11)Create a string array , display it
+12)What is use of break, continue and label
+->break
+This statement terminates the loop or switch statement and transfers
+ execution to the statement immediately following the loop or switch.
+->continue
+ This statement causes the loop to skip the remainder of its body and 
+immediately retest its condition prior to reiterating.
+->Label
+1. Write a program to merge two arrays of integers by reading one number at a time from each array until 
+one of the array is exhausted, and then concatenating the remaining numbers.
+ Input: [23,60,94,3,102] and [42,16,74]
+ Output: [23,42,60,16,94,74,3,102]
+ 
+ 2.Write a program which takes an array of integers and prints the running average of 3 consecutive integers. 
+In case the array has fewer than 3 integers, there should be no output.
+ Input: [5,14,35,89,140]
+
+Output: [18, 46, 88] 
+(Explanation: 18=(5+14+35/3, 46=(14+35+89)/3, ...)
+
+3. Write a program which generates the series 1,4,27,16,125,36
+4.Given an array of integers, print whether the numbers are in ascending order or in descending order or 
+in random order without sorting
+ Input: [5,14,35,90,139] Output: Ascending 
+ Input: [88,67,35,14,-12] Output: Descending
+Input: [65,14,129,34,7] Output: Random 
+
+5.Print the third-largest number in an array without sorting it 
+Input: [ 24,54,31,16,82,45,67]
+Output: 54 (82 and 67 are the largest and second-largest)
+
+
+
+
+
